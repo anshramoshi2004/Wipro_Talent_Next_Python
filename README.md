@@ -1,2 +1,2 @@
-# Wipro_Talent_Next_Python_Module1
+# Wipro_Talent_Next_Python
 Python
